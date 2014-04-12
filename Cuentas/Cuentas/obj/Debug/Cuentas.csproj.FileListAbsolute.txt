@@ -10,3 +10,6 @@ C:\Users\dell\Documents\Visual Studio 2012\Projects\Nueva carpeta\Cuentas\Cuenta
 C:\Users\dell\Documents\Visual Studio 2012\Projects\Nueva carpeta\Cuentas\Cuentas\bin\Debug\Cuentas.exe
 C:\Users\dell\Documents\Visual Studio 2012\Projects\Nueva carpeta\Cuentas\Cuentas\bin\Debug\Cuentas.pdb
 C:\Users\dell\Documents\Visual Studio 2012\Projects\Nueva carpeta\Cuentas\Cuentas\obj\Debug\Cuentas.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\GitHub\Prueba\Cuentas\Cuentas\bin\Debug\Cuentas.exe.config
+C:\Users\dell\Documents\GitHub\Prueba\Cuentas\Cuentas\obj\Debug\Cuentas.exe
+C:\Users\dell\Documents\GitHub\Prueba\Cuentas\Cuentas\obj\Debug\Cuentas.pdb
