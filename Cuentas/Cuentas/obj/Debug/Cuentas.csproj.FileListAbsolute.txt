@@ -1,0 +1,12 @@
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Cuentas\Cuentas\bin\Debug\Cuentas.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Cuentas\Cuentas\obj\Debug\Cuentas.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Cuentas\Cuentas\bin\Debug\Cuentas.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Cuentas\Cuentas\bin\Debug\Cuentas.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Cuentas\Cuentas\obj\Debug\Cuentas.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Cuentas\Cuentas\obj\Debug\Cuentas.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Nueva carpeta\Cuentas\Cuentas\bin\Debug\Cuentas.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Nueva carpeta\Cuentas\Cuentas\obj\Debug\Cuentas.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Nueva carpeta\Cuentas\Cuentas\obj\Debug\Cuentas.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Nueva carpeta\Cuentas\Cuentas\bin\Debug\Cuentas.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Nueva carpeta\Cuentas\Cuentas\bin\Debug\Cuentas.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\Nueva carpeta\Cuentas\Cuentas\obj\Debug\Cuentas.csprojResolveAssemblyReference.cache
